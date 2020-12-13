@@ -1,9 +1,8 @@
 import { Component } from '@angular/core';
 
 @Component({
-  selector: 'app-root',
-  templateUrl: './app.component.html',
-  styleUrls: ['./app.component.css']
+  selector: 'events-app',
+  template: '<h1>Hello! world</h1>'
 })
 export class AppComponent {
   title = 'ng-fundamentals';
